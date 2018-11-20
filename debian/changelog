@@ -1,3 +1,9 @@
+liblognorm (2.0.5-1pardus1) unstable; urgency=medium
+
+  * Pardus CI implementation
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Tue, 20 Nov 2018 13:24:56 +0300
+
 liblognorm (2.0.5-1) unstable; urgency=medium
 
   * New upstream version 2.0.5
